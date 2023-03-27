@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Tesla Web application.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in CFA in IT automation.
+	           We are raising millionaires in CFA/dollards in IT automation.
 			We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. 
 		A DevOps engineer should be capable of automating the entire DevOps pipeline, including CI/CD cycles, 
 			app performance monitoring, infrastructure and configurations, among others. 
