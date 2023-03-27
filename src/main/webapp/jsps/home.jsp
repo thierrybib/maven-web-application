@@ -13,7 +13,7 @@
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires in pesos in IT automation.
 			We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. 
-		A DevOps engineer should be capable of automating the entire DevOps pipeline, including CI/CD cycles, 
+		A DevOps engineer should be capable of automating the entire DevOps pipeline (SDLC), including CI/CD cycles, 
 			app performance monitoring, infrastructure and configurations, among others. 
 			DevOps automation skillset is closely linked to ability in knowledge about DevOps toolset, coding and scripting.</h1>
 <hr>
