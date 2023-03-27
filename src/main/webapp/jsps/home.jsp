@@ -9,10 +9,13 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Project30 automation.</h1>
+<h1 align="center">Welcome to Tesla Web application.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+			We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. 
+		A DevOps engineer should be capable of automating the entire DevOps pipeline, including CI/CD cycles, 
+			app performance monitoring, infrastructure and configurations, among others. 
+			DevOps automation skillset is closely linked to ability in knowledge about DevOps toolset, coding and scripting.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
