@@ -12,7 +12,7 @@ node{
     stage('4.UploadArtifact'){
         sh "${mavenHome}/bin/mvn deploy"
     }
-    */
+    /*
     stage('5.Deploy2Tomcat'){
     deploy adapters: [tomcat9(credentialsId: 'b01131cf-9336-40b8-933f-1f6009ba4e96', path: '', url: 'http://3.86.7.169:8080/')], contextPath: null, war: 'target/*war'
     }
@@ -25,7 +25,7 @@ node{
    stage('7.Deploy2Production'){
     deploy adapters: [tomcat9(credentialsId: 'b01131cf-9336-40b8-933f-1f6009ba4e96', path: '', url: 'http://3.86.7.169:8080/')], contextPath: null, war: 'target/*war'
     } 
-    */
+    /*
     stage('8.emailNotification'){
         emailext body: '''Hello Team,
 
