@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>douala</finalName>
+		<finalName>Jesus</finalName>
 		
 		<plugins>
 			<plugin>
