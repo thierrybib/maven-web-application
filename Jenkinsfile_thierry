@@ -15,7 +15,6 @@ node{
     stage('5.Deploy2Tomcat'){
     deploy adapters: [tomcat9(credentialsId: 'b01131cf-9336-40b8-933f-1f6009ba4e96', path: '', url: 'http://3.86.7.169:8080/')], contextPath: null, war: 'target/*war'
     }
-    /*
      stage('6.Manualapproval'){
         sh "echo 'Ready for Review'"
         timeout(time:5, unit:'HOURS'){
@@ -33,5 +32,4 @@ Build is done
 
 Eng Thierry Bbiboum''', recipientProviders: [developers(), contributor()], subject: 'Build status', to: 'biboum.thierry@yahoo.com'
     }
-    /*
 }
